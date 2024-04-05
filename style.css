@@ -1,0 +1,133 @@
+
+.container{
+    border: solid black 2px;
+    width: 1128px;
+    margin-top: 80px;
+    margin-left: 80px;
+    height: 1128px;
+
+} 
+body {
+  /* font-family: 'Roboto', sans-serif; */
+  color: #222C2A;
+ width: 1128px;
+  
+} 
+
+.first-section{
+    width: 1128px;
+    height: 660px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #F3EED9;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: #824936;
+    letter-spacing: 7px;
+}
+
+.sec-section{
+    font-size: 60px;
+    font-family: "Playfair Display", serif;
+    font-weight: 900;
+    letter-spacing: 0px;
+}
+
+
+.third-section{
+    justify-content: center;
+    display: flex;         
+    font-family: "Roboto",;
+    font-size: 36px;
+    font-weight: 900;
+    color: #824936;
+    margin-top: 100px;
+}
+
+.fourth-section{
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+
+    
+
+}
+
+   .fourth-section h1{
+    justify-content: center;
+    display: flex; 
+    width: 40%;         
+    font-family: "Roboto",;
+    font-size: 21px;
+    font-weight: 500;
+    color: #28395a;
+   margin: 0px;
+}
+
+.container2{
+    border: solid black 2px;
+    width: 1128px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 0px;
+    height: 800px;
+}
+
+.picture1{
+    height: 400px;
+    background-color: #222C2A;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 100px;
+    height: 25%;
+}
+
+.picture1 h1{
+    color: #F3EED9;
+    display: block;
+    
+}
+.picture1 p{
+    color: #F3EED9;
+    display: flex;
+
+
+
+}
+
+.box-image1{
+    align-items: center;
+    display: flex;
+    padding-left: 100px;
+}
+
+.picture2{
+    height: 400px;
+    background-color: #824936;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 100px;
+    height: 25%;
+}
+
+.picture2 h1{
+    color: #F3EED9;
+    display: block;
+    
+    
+}
+.picture2 p{
+    color: #F3EED9;
+    display: flex;
+}
+
+.box-image2{
+    align-items: center;
+    display: flex;
+    padding-right: 100px;
+}
